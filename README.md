@@ -10,9 +10,9 @@
 [Video](https://live.symfony.com/account/replay/video/962)<br>
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)<br>
-![github](icon/github.png) [@fabpot](https://github.com/fabpot)<br>
-![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)<br>
-![mastodon](icon/mastodon.png) [@fabpot@mastodon.social](https://mastodon.social/@fabpot)<br>
+![github](icon/github.svg) [@fabpot](https://github.com/fabpot)<br>
+![twitter](icon/twitter.svg) [@fabpot](https://twitter.com/fabpot)<br>
+![mastodon](icon/mastodon.svg) [@fabpot@mastodon.social](https://mastodon.social/@fabpot)<br>
 
 ---
 
@@ -27,9 +27,9 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)<br>
 [Video](https://live.symfony.com/account/replay/video/949)<br>
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)<br>
-![github](icon/github.png) [@dunglas](https://github.com/dunglas)<br>
-![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)<br>
-![mastodon](icon/mastodon.png) [@dunglas@mastodon.social](https://mastodon.social/@dunglas)<br>
+![github](icon/github.svg) [@dunglas](https://github.com/dunglas)<br>
+![twitter](icon/twitter.svg) [@dunglas](https://twitter.com/dunglas)<br>
+![mastodon](icon/mastodon.svg) [@dunglas@mastodon.social](https://mastodon.social/@dunglas)<br>
 
 ---
 
@@ -51,8 +51,8 @@ Au programme :
 [Video](https://live.symfony.com/account/replay/video/948)<br>
 
 By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)<br>
-![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)<br>
-![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)<br>
+![github](icon/github.svg) [@lyrixx](https://github.com/lyrixx)<br>
+![twitter](icon/twitter.svg) [@lyrixx](https://twitter.com/lyrixx)<br>
 
 ---
 
@@ -75,9 +75,9 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)<br>
 [Video](https://live.symfony.com/account/replay/video/950)<br>
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)<br>
-![github](icon/github.png) [@chalasr](https://github.com/chalasr)<br>
-![twitter](icon/twitter.png) [@chalas_r](https://twitter.com/chalas_r)<br>
-![mastodon](icon/mastodon.png) [@chalasr@phpc.social](https://phpc.social/@chalasr)<br>
+![github](icon/github.svg) [@chalasr](https://github.com/chalasr)<br>
+![twitter](icon/twitter.svg) [@chalas_r](https://twitter.com/chalas_r)<br>
+![mastodon](icon/mastodon.svg) [@chalasr@phpc.social](https://phpc.social/@chalasr)<br>
 
 ---
 
@@ -98,13 +98,13 @@ By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)<br>
 [Video](https://live.symfony.com/account/replay/video/938)<br>
 
 By [Baptiste Leduc](https://connect.symfony.com/profile/korbeil)<br>
-![github](icon/github.png) [@Korbeil](https://github.com/Korbeil)<br>
-![mastodon](icon/mastodon.png) [@korbeil](https://phpc.social/@korbeil)<br>
+![github](icon/github.svg) [@Korbeil](https://github.com/Korbeil)<br>
+![mastodon](icon/mastodon.svg) [@korbeil](https://phpc.social/@korbeil)<br>
 
 And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)<br>
-![github](icon/github.png) [@mtarld](https://github.com/mtarld)<br>
-![twitter](icon/twitter.png) [@matarld](https://x.com/matarld)<br>
-![mastodon](icon/mastodon.png) [@matarld@bird.makeup](https://phpc.social/@matarld@bird.makeup)<br>
+![github](icon/github.svg) [@mtarld](https://github.com/mtarld)<br>
+![twitter](icon/twitter.svg) [@matarld](https://x.com/matarld)<br>
+![mastodon](icon/mastodon.svg) [@matarld@bird.makeup](https://phpc.social/@matarld@bird.makeup)<br>
 
 ---
 
@@ -139,9 +139,9 @@ And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)<br>
 [Video](https://live.symfony.com/account/replay/video/945)<br>
 
 By [Simon André](https://connect.symfony.com/profile/simonandre)<br>
-![github](icon/github.png) [@smnandre](https://github.com/smnandre)<br>
-![twitter](icon/twitter.png) [@simonandre](https://twitter.com/simonandre)<br>
-![mastodon](icon/mastodon.png) [@simonandre@bird.makeup](https://phpc.social/@simonandre@bird.makeup)<br>
+![github](icon/github.svg) [@smnandre](https://github.com/smnandre)<br>
+![twitter](icon/twitter.svg) [@simonandre](https://twitter.com/simonandre)<br>
+![mastodon](icon/mastodon.svg) [@simonandre@bird.makeup](https://phpc.social/@simonandre@bird.makeup)<br>
 
 ---
 
@@ -160,8 +160,8 @@ By [Simon André](https://connect.symfony.com/profile/simonandre)<br>
 [Video](https://live.symfony.com/account/replay/video/940)<br>
 
 By [Ezzine Imen](https://connect.symfony.com/profile/imen-ezzine)<br>
-![github](icon/github.png) [@imenezzine](https://github.com/imenezzine)<br>
-![twitter](icon/twitter.png) [@imenezzine1](https://twitter.com/imenezzine1)<br>
+![github](icon/github.svg) [@imenezzine](https://github.com/imenezzine)<br>
+![twitter](icon/twitter.svg) [@imenezzine1](https://twitter.com/imenezzine1)<br>
 
 ---
 
@@ -176,9 +176,9 @@ By [Ezzine Imen](https://connect.symfony.com/profile/imen-ezzine)<br>
 [Video](https://live.symfony.com/account/replay/video/939)<br>
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)<br>
-![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)<br>
-![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)<br>
-![mastodon](icon/mastodon.png) [@nicolasgrekas@phpc.social](https://phpc.social/@nicolasgrekas)<br>
+![github](icon/github.svg) [@nicolas-grekas](https://github.com/nicolas-grekas)<br>
+![twitter](icon/twitter.svg) [@nicolasgrekas](https://twitter.com/nicolasgrekas)<br>
+![mastodon](icon/mastodon.svg) [@nicolasgrekas@phpc.social](https://phpc.social/@nicolasgrekas)<br>
 
 ---
 
@@ -193,9 +193,9 @@ By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)<br>
 [Video](https://live.symfony.com/account/replay/video/946)<br>
 
 By [Matheo Daninos](https://connect.symfony.com/profile/mathdns)<br>
-![github](icon/github.png) [@WebMamba](https://github.com/WebMamba)<br>
-![twitter](icon/twitter.png) [@matheodaninos](https://twitter.com/matheodaninos)<br>
-![mastodon](icon/mastodon.png) [@matheodaninos@bird.makeup](https://phpc.social/@matheodaninos@bird.makeup)<br>
+![github](icon/github.svg) [@WebMamba](https://github.com/WebMamba)<br>
+![twitter](icon/twitter.svg) [@matheodaninos](https://twitter.com/matheodaninos)<br>
+![mastodon](icon/mastodon.svg) [@matheodaninos@bird.makeup](https://phpc.social/@matheodaninos@bird.makeup)<br>
 
 ---
 
@@ -214,8 +214,8 @@ By [Matheo Daninos](https://connect.symfony.com/profile/mathdns)<br>
 [Video](https://live.symfony.com/account/replay/video/947)<br>
 
 By [Sofia Lescano](https://connect.symfony.com/profile/soflesc)<br>
-![github](icon/github.png) [@soflesc](https://github.com/soflesc)<br>
-![mastodon](icon/mastodon.png) [@soflesc@bird.makeup](https://phpc.social/@soflesc@bird.makeup)<br>
+![github](icon/github.svg) [@soflesc](https://github.com/soflesc)<br>
+![mastodon](icon/mastodon.svg) [@soflesc@bird.makeup](https://phpc.social/@soflesc@bird.makeup)<br>
 
 ---
 
@@ -233,9 +233,9 @@ By [Sofia Lescano](https://connect.symfony.com/profile/soflesc)<br>
 [Package](https://github.com/selency/openapi)<br>
 
 By [Florent Morselli](https://connect.symfony.com/profile/spomky_)<br>
-![github](icon/github.png) [@Spomky](https://github.com/Spomky)<br>
-![twitter](icon/twitter.png) [@FlorentMorselli](https://twitter.com/FlorentMorselli)<br>
-![mastodon](icon/mastodon.png) [@florentmorselli@bird.makeup](https://phpc.social/@florentmorselli@bird.makeup)<br>
+![github](icon/github.svg) [@Spomky](https://github.com/Spomky)<br>
+![twitter](icon/twitter.svg) [@FlorentMorselli](https://twitter.com/FlorentMorselli)<br>
+![mastodon](icon/mastodon.svg) [@florentmorselli@bird.makeup](https://phpc.social/@florentmorselli@bird.makeup)<br>
 
 ---
 
@@ -254,9 +254,9 @@ By [Florent Morselli](https://connect.symfony.com/profile/spomky_)<br>
 [Video](https://live.symfony.com/account/replay/video/943)<br>
 
 By [Jérémy Romey](https://connect.symfony.com/profile/jeremyfreeagent)<br>
-![github](icon/github.png) [@jeremyFreeAgent](https://github.com/jeremyFreeAgent)<br>
-![twitter](icon/twitter.png) [@jeremyFreeAgent](https://twitter.com/jeremyFreeAgent)<br>
-![mastodon](icon/mastodon.png) [@jeremyFreeAgent@phpc.social](https://phpc.social/@jeremyFreeAgent)<br>
+![github](icon/github.svg) [@jeremyFreeAgent](https://github.com/jeremyFreeAgent)<br>
+![twitter](icon/twitter.svg) [@jeremyFreeAgent](https://twitter.com/jeremyFreeAgent)<br>
+![mastodon](icon/mastodon.svg) [@jeremyFreeAgent@phpc.social](https://phpc.social/@jeremyFreeAgent)<br>
 
 ---
 
@@ -271,9 +271,9 @@ By [Jérémy Romey](https://connect.symfony.com/profile/jeremyfreeagent)<br>
 [Video](https://live.symfony.com/account/replay/video/942)<br>
 
 By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)<br>
-![github](icon/github.png) [@thomasdiluccio](https://github.com/thomasdiluccio)<br>
-![twitter](icon/twitter.png) [@zenhysteria](https://twitter.com/zenhysteria)<br>
-![mastodon](icon/mastodon.png) [@zenhysteria@bird.makeup](https://phpc.social/@zenhysteria@bird.makeup)<br>
+![github](icon/github.svg) [@thomasdiluccio](https://github.com/thomasdiluccio)<br>
+![twitter](icon/twitter.svg) [@zenhysteria](https://twitter.com/zenhysteria)<br>
+![mastodon](icon/mastodon.svg) [@zenhysteria@bird.makeup](https://phpc.social/@zenhysteria@bird.makeup)<br>
 
 ---
 
@@ -290,8 +290,6 @@ By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)<br>
 [Video](https://live.symfony.com/account/replay/video/941)<br>
 
 By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)<br>
-![github](icon/github.png) [@GromNaN](https://github.com/GromNaN)<br>
-![twitter](icon/twitter.png) [@GromNaN](https://twitter.com/GromNaN)<br>
-![mastodon](icon/mastodon.png) [@gromnan@phpc.social](https://phpc.social/@gromnan)<br>
-
----
+![github](icon/github.svg) [@GromNaN](https://github.com/GromNaN)<br>
+![twitter](icon/twitter.svg) [@GromNaN](https://twitter.com/GromNaN)<br>
+![mastodon](icon/mastodon.svg) [@gromnan@phpc.social](https://phpc.social/@gromnan)<br>
