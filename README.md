@@ -1,8 +1,22 @@
 # [Symfony Live - Paris 2024](https://live.symfony.com/2024-paris/) talks
 
-- All talks are in **french**.
-- You can send feedback and love to speakers on their twitter account
-- See [all tweets](https://twitter.com/search?q=(%23symfonylive%20OR%20%23symfony_live)%20until%3A2024-03-30%20since%3A2024-03-27%20-%23LuckyWebby&src=typed_query&f=top) during the event
+> [!IMPORTANT]
+> It's unfortunate that [videos aren't hosted on YouTube anymore](https://www.youtube.com/@SymfonyTv/videos), and most are [locked behind a paywall](https://live.symfony.com/replay), even years later 😔. <ins>If you’re a speaker, please consider sharing your insights in a blog post</ins>. It would really help beginners and uplift the entire community! 🤗
+
+> [!NOTE]
+> - All talks are in **french**.
+> - You can send feedback and love to speakers on their twitter account
+> - See [all tweets](https://twitter.com/search?q=(%23symfonylive%20OR%20%23symfony_live)%20until%3A2024-03-30%20since%3A2024-03-27%20-%23LuckyWebby&src=typed_query&f=top) during the event
+
+#### Blog post about the event
+
+- [JoliCode.com/blog](https://jolicode.com/blog/une-nouvelle-edition-du-symfony-live-paris-2024)  <sup>[![rss](icon/rss.svg)](https://jolicode.com/feed.rss)</sup>
+- [Les-Tilleuls.coop/blog](https://les-tilleuls.coop/blog/symfonylive-paris-2024-notre-retour-sur-les-conferences)  <sup>[![rss](icon/rss.svg)](https://les-tilleuls.coop/feed.xml)</sup>
+- [Magnetic.coop](https://www.magnetic.coop/retour-sur-le-symfony-live-2024-paris/)
+- [Codein.fr/blog](https://www.codein.fr/blog/symfonylive2024)
+- [Antistatique.net/blog](https://antistatique.net/blog/symfonylive-2024-dans-la-ville-lumiere)
+
+---
 
 ## Keynote · Using Git magic for the Symfony mono-repo
 
