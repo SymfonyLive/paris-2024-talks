@@ -116,7 +116,7 @@ And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)<br>
 
   Partons ensemble à la découverte des LiveComponent durant cette session de Symfony Live Paris 2024!</dd>
 
-  ## Objectif
+  _Objectif_
 
   Embarquez pour une aventure L-I-V-E au cours de laquelle nous tenterons de répondre aux questions suivantes :
 
@@ -124,14 +124,14 @@ And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)<br>
   * LiveComponent: sont-ils faits pour vous et vos équipes ?
   * LiveComponent: pour aujourd'hui et pour demain ?
 
-  ## Programme
+  _Programme_
 
   * L - Live : applications web vivantes
   * I - Intégration : au cœur de Symfony
   * V - Versatile : catalyseur de projets
   * E - Expérience : améliorations UX et DX
 
-  ## Pourquoi participer ?
+  _Pourquoi participer ?_
   Si vous êtes intéressés par les techniques modernes de développement web, si vous souhaitez améliorer l'expérience utilisateur de votre application, ou si vous êtes curieux de découvrir les nouvelles fonctionnalités de Symfony UX, cette conférence est pour vous !</dd>
 </dl>
 
