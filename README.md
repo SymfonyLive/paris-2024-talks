@@ -2,9 +2,9 @@
 
 - All talks are in **french**.
 - You can send feedback and love to speakers on their twitter account
-- See [all tweets](https://twitter.com/search?q=(%23symfonylive%20OR%20%23symfony_live)%20until%3A2023-03-25%20since%3A2023-03-23%20-%23LuckyWebby&src=typed_query&f=top) during the event
+- See [all tweets](https://twitter.com/search?q=(%23symfonylive%20OR%20%23symfony_live)%20until%3A2024-03-30%20since%3A2024-03-27%20-%23LuckyWebby&src=typed_query&f=top) during the event
 
-## Keynote
+## Keynote · Using Git magic for the Symfony mono-repo
 
 [Slides](https://speakerdeck.com/fabpot/using-some-git-magic-on-the-symfony-mono-repository)<br>
 [Video](https://live.symfony.com/account/replay/video/962)<br>
@@ -37,17 +37,14 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)<br>
 
 <dl>
   <dt>Description</dt>
-  <dd>Les logs comptent parmi les trois piliers de l'observabilité avec les métriques et les traces. Lors de cette présentation, nous nous focaliserons sur les bonnes pratiques, méthodes, et outils pour ne manquer aucun événement.</dd>
-
-  <dt>Au programme</dt>
-  <dd>
-
+  <dd>Les logs comptent parmi les trois piliers de l'observabilité avec les métriques et les traces. Lors de cette présentation, nous nous focaliserons sur les bonnes pratiques, méthodes, et outils pour ne manquer aucun événement.
+Au programme :
 * Comment écrire une bonne ligne de log ?
 * Où placer cette ligne de log ?
 * Comprendre l'architecture de Monolog, pour en tirer le maximum
 * Où envoyer ses logs ?
-* Et ensuite ?</dd>
-
+* Et ensuite ?
+  </dd>
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/symfony-live-2015-paris-monitorer-sa-prod)<br>
@@ -119,30 +116,22 @@ And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)<br>
 
   Partons ensemble à la découverte des LiveComponent durant cette session de Symfony Live Paris 2024!</dd>
 
-  <dl>
-    <dt>Objectif</dt>
-    <dd>
-Embarquez pour une aventure L-I-V-E au cours de laquelle nous tenterons de répondre aux questions suivantes :
+  ## Objectif
 
-* LiveComponent: un bon choix pour votre projet ?
-* LiveComponent: sont-ils faits pour vous et vos équipes ?
-* LiveComponent: pour aujourd'hui et pour demain ?
-    </dd>
+  Embarquez pour une aventure L-I-V-E au cours de laquelle nous tenterons de répondre aux questions suivantes :
 
+  * LiveComponent: un bon choix pour votre projet ?
+  * LiveComponent: sont-ils faits pour vous et vos équipes ?
+  * LiveComponent: pour aujourd'hui et pour demain ?
 
- <dl>
-    <dt>Programme</dt>
-    <dd>
+  ## Programme
 
-* L - Live : applications web vivantes
-* I - Intégration : au cœur de Symfony
-* V - Versatile : catalyseur de projets
-* E - Expérience : améliorations UX et DX
-    </dd>
+  * L - Live : applications web vivantes
+  * I - Intégration : au cœur de Symfony
+  * V - Versatile : catalyseur de projets
+  * E - Expérience : améliorations UX et DX
 
-   <dl>
-      <dt>Pourquoi participer ?</dt>
-      <dd>
+  ## Pourquoi participer ?
   Si vous êtes intéressés par les techniques modernes de développement web, si vous souhaitez améliorer l'expérience utilisateur de votre application, ou si vous êtes curieux de découvrir les nouvelles fonctionnalités de Symfony UX, cette conférence est pour vous !</dd>
 </dl>
 
@@ -261,8 +250,8 @@ By [Florent Morselli](https://connect.symfony.com/profile/spomky_)<br>
   Pour ancrer ces concepts dans la réalité, nous les verrons à travers un exemple de fonctionnalité, pas à pas.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/tgalopin/concevoir-son-api-pour-le-futur)<br>
-[Video](https://live.symfony.com/account/replay/video/813)<br>
+[Slides](https://speakerdeck.com/jeremyfreeagent/es-avec-symfony-cest-trop-bien)<br>
+[Video](https://live.symfony.com/account/replay/video/943)<br>
 
 By [Jérémy Romey](https://connect.symfony.com/profile/jeremyfreeagent)<br>
 ![github](icon/github.png) [@jeremyFreeAgent](https://github.com/jeremyFreeAgent)<br>
